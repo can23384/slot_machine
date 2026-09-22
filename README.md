@@ -58,4 +58,4 @@ Este codigo cubre implementacion, validacion y resultados visuales. El grupo deb
 - Ingrid Nina Alessandra Nájera Marakovits, 231088
 - Eliazar José Pablo Canastuj Matías, 23384
 - Diego Alejandro Ramírez Velásquez, 23601
-- Nelson Escalant, 22046
+- Nelson Estuardo Escalante Sánchez, 22046
